@@ -1,2 +1,2 @@
-# san2021-poster-oral-communication
-SAN 2021 E-poster and Oral Communication Slides
+# SAN 2021
+Argentine Neuroscience Society E-poster and Oral Communication Slides
